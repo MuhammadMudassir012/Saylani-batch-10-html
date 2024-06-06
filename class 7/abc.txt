@@ -1,0 +1,15 @@
+For laptop and above
+
+@media screen and (min-width: 766) and (max-width: 1024)
+
+For tablets
+
+@media screen and (min-width: 481) and (max-width: 767)
+
+For mobiles
+
+@media screen and (min-width: 320) and (max-width: 480)
+
+For small mobiles
+
+@media screen and (min-width: 100) and (max-width: 321)
